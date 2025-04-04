@@ -1,0 +1,15 @@
+2025-04-04 03:57:57.537295 - Received CBT.V508.FILE1034.PDS from FILE1034.XMI 
+2025-04-04 03:57:57.538082 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1034.PDS, moved to PDS/$$$#DATE
+2025-04-04 03:57:57.538232 - Found $README.txt (text/plain) in CBT.V508.FILE1034.PDS, moved to PDS/$README
+2025-04-04 03:57:57.538371 - Found $RECV.rexx (text/plain) in CBT.V508.FILE1034.PDS, moved to PDS/$RECV
+2025-04-04 03:57:57.538499 - Found @FIL1034.txt (text/plain) in CBT.V508.FILE1034.PDS, moved to PDS/@FIL1034
+2025-04-04 03:57:57.538644 - Found EXEC.xmi (application/xmit) in CBT.V508.FILE1034.PDS, moved to PDS/EXEC.xmi
+2025-04-04 03:57:57.560933 - Received LBDYCK.DSU.EXEC from EXEC.xmi 
+2025-04-04 03:57:57.561343 - Found DSU.rexx (text/plain) in LBDYCK.DSU.EXEC, moved to EXEC/DSU
+2025-04-04 03:57:57.561695 - Found LICENSE.txt (text/plain) in CBT.V508.FILE1034.PDS, moved to PDS/LICENSE
+2025-04-04 03:57:57.561830 - Found PANELS.xmi (application/xmit) in CBT.V508.FILE1034.PDS, moved to PDS/PANELS.xmi
+2025-04-04 03:57:57.606141 - Received LBDYCK.DSU.PANELS from PANELS.xmi 
+2025-04-04 03:57:57.606678 - Found #DSU.txt (text/plain) in LBDYCK.DSU.PANELS, moved to PANELS/#DSU
+2025-04-04 03:57:57.606822 - Found DSU.txt (text/plain) in LBDYCK.DSU.PANELS, moved to PANELS/DSU
+2025-04-04 03:57:57.606954 - Found DSUP.txt (text/plain) in LBDYCK.DSU.PANELS, moved to PANELS/DSUP
+2025-04-04 03:57:57.607087 - Found DSU2.txt (text/plain) in LBDYCK.DSU.PANELS, moved to PANELS/DSU2
